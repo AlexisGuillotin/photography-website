@@ -1,0 +1,134 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Alexis Guillotin
+    tagline: Data Management
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: alexis.guillotin1@hotmail.com
+    phone: +33781951049
+    timezone: Paris
+    citizenship:
+    website: alexisguillotin.github.io/photography
+    linkedin: alexisguillotin
+    github: alexisguillotin
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: French
+          level: Native
+
+        - idiom: English
+          level: B2 (TOEIC 855/990)
+
+        - idiom: Spanish
+          level: Basic
+
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
+
+        - item: Snowboarding
+          link:
+
+        - item: Space
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    title: Education
+    info:
+      - degree: Engineering school big data & AI
+        university: CNAM Niort
+        time: 2020 - 2023
+        details: |
+          This training allow me to acquire the general skills of an engineer,
+          like reason logically in order to adopt the right methodology and at
+          the same time have the specific skills related to big data and artificial
+          intelligence, like how to manage and analyse data, extract relevant
+          data and visualisation to help understanding.
+      - degree: HND in computer science
+        university: IUT de Nantes
+        time: 2018 - 2020
+        details: |
+          Introduction to all areas of computer science with a general part as
+          well.
+experiences:
+    title: Experiences
+    info:
+      - role: Data Management
+        time: 2020 - Present
+        company: Hera-MI, Saint-Herblain
+        details: |
+          - Enrich data labelling
+          - Automatize extraction tasks
+          - create specific datasets
+      - role: Web developper
+        time: 2020 - 2020
+        company: Marketing local, Nantes
+        details: |
+          Website developpment for a company to sell bracelets
+      - role: Logistic operator
+        time: 2018 - 2019
+        company: LIDL, Sautron
+        details: |
+          - Order preparation for shops
+          - Moving pallets, caces 1
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Recommendation engine using Neo4j
+        link: https://github.com/clementmariebrisson/neo4jrecommandation-engine
+        tagline: "A recommendation engine of beers using Neo4j"
+
+      - title: Finding objects in image with IA
+        link: https://github.com/clementmariebrisson/Finding_Objects_In_Images
+        tagline: "Project to find specific elements in images using AI algorithms"
+
+      - title: Photography Website
+        link: https://github.com/AlexisGuillotin/photography
+        tagline: "A responsive website to expose photos that I take"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 90%
+
+      - name: Java
+        level: 85%
+
+      - name: HTML5 & CSS
+        level: 65%
+
+      - name: Lightroom & Photoshop
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

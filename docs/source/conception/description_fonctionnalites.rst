@@ -1,0 +1,4 @@
+Description des fonctionnalités implémentées
+##########################################################
+
+Le site de partage de photos utilise JavaScript pour implémenter plusieurs fonctionnalités, notamment la pagination de la galerie de photos, le chargement asynchrone des photos, la mise en forme de la date et l'affichage d'une notification de succès lorsqu'une photo est ajoutée avec succès. La pagination de la galerie de photos permet de naviguer facilement entre les différentes pages de la galerie. Le chargement asynchrone des photos permet de charger les photos de manière dynamique, sans rafraîchir la page. La mise en forme de la date permet d'afficher la date de publication des photos de manière lisible. Enfin, la notification de succès permet d'indiquer à l'utilisateur que sa photo a été ajoutée avec succès et qu'elle est visible dans la galerie de photos.

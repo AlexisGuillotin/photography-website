@@ -1,0 +1,6 @@
+Explication de la structure HTML et des feuilles de style CSS
+#############################################################
+
+Le site de partage de photos utilise une structure HTML simple pour organiser son contenu. La page principale est composée de plusieurs éléments HTML, notamment des balises <html>, <head>, <body>, <header>, <nav>, <main>, <footer>, etc. Les balises <header> et <nav> contiennent le logo et les liens de navigation, tandis que la balise <main> contient le contenu principal de la page, tel que la galerie de photos ou la page de visualisation de photo. La balise <footer> contient les informations de contact et les crédits.
+
+Le site de partage de photos utilise également des feuilles de style CSS pour styliser et mettre en forme le contenu. Les feuilles de style sont divisées en plusieurs sections pour chaque élément HTML, tel que le header, le nav, le main, etc. Les styles sont appliqués en utilisant des sélecteurs de classe, d'identifiant ou d'élément, en fonction des besoins. Les styles sont utilisés pour définir les couleurs, les polices, les tailles, les marges, les bordures, etc.
