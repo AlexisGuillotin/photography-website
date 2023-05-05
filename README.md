@@ -13,23 +13,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alexisguillotin/photography">
+  <a href="https://github.com/alexisguillotin/photography-website">
     <img src="assets/images/Logo.png" alt="Logo" width="300" height="300">
   </a>
 
-<h3 align="center">Photography website</h3>
+<h3 align="center">photography website</h3>
 
   <p align="center">
-    Website for personal branding, including photography section, online resume and much more to discover!
+    Website for personal branding, including photography-website section, online resume and much more to discover!
     <br />
-    <a href="https://github.com/AlexisGuillotin/photography"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AlexisGuillotin/photography-website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AlexisGuillotin/photography">View Demo</a>
+    <a href="https://github.com/AlexisGuillotin/photography-website">View Demo</a>
     ·
-    <a href="https://github.com/AlexisGuillotin/photography/issues">Report Bug</a>
+    <a href="https://github.com/AlexisGuillotin/photography-website/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AlexisGuillotin/photography/issues">Request Feature</a>
+    <a href="https://github.com/AlexisGuillotin/photography-website/issues">Request Feature</a>
   </p>
 </div>
 
@@ -59,7 +59,7 @@
 ## About The Project
 
 Here below a **wonderful** preview of the home page ! 
-![photography](assets/images/photography.JPG)
+![photography-website](assets/images/photography.JPG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ Here some tips to use and understand the project.
 
 ### Prerequisites
 
-If you just want to see the project, go to [https://alexisguillotin.github.io/photography/](https://alexisguillotin.github.io/photography/) and enjoy!
+If you just want to see the project, go to [https://alexisguillotin.github.io/photography-website/](https://alexisguillotin.github.io/photography-website/) and enjoy!
 If you want to make your own project based on my repository, just hit the fork button on the repo!
 
 ### Dependancies
@@ -94,7 +94,7 @@ If you want to make your own project based on my repository, just hit the fork b
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Go to [https://alexisguillotin.github.io/photography/](https://alexisguillotin.github.io/photography/) and enjoy !
+Go to [https://alexisguillotin.github.io/photography-website/](https://alexisguillotin.github.io/photography-website/) and enjoy !
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +125,7 @@ All images will be properly resize in both subdirectory and removed from images 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [X] Fork project from [https://github.com/rampatra/photography](https://github.com/rampatra/photography)
+- [X] Fork project from [https://github.com/rampatra/photography-website](https://github.com/rampatra/photography-website)
 - [X] Resolve some issues and versions conflicts
 - [X] Change way to upload images from gulp (not working) to bash script here : [bash_resize.sh](bash_resize.sh)
 - [X] Add sidebar to navigate through more pages.
@@ -137,7 +137,7 @@ All images will be properly resize in both subdirectory and removed from images 
 - [X] Add local testing method
 - [ ] Check & make all pages responsive
 
-See the [open issues](https://github.com/alexisguillotin/photography/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/alexisguillotin/photography-website/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,7 +165,7 @@ Don't forget to give the project a star! Thanks again!
 
 Alexis Guillotin - [alexis.guillotin@hotmail.com](alexis.guillotin@hotmail.com)
 
-Project Link: [https://github.com/alexisguillotin/photography](https://github.com/alexisguillotin/photography)
+Project Link: [https://github.com/alexisguillotin/photography-website](https://github.com/alexisguillotin/photography-website)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,16 +186,16 @@ Project Link: [https://github.com/alexisguillotin/photography](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/alexisguillotin/photography.svg?style=for-the-badge
-[contributors-url]: https://github.com/alexisguillotin/photography/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/alexisguillotin/photography.svg?style=for-the-badge
-[forks-url]: https://github.com/alexisguillotin/photography/network/members
-[stars-shield]: https://img.shields.io/github/stars/alexisguillotin/photography.svg?style=for-the-badge
-[stars-url]: https://github.com/alexisguillotin/photography/stargazers
-[issues-shield]: https://img.shields.io/github/issues/alexisguillotin/photography.svg?style=for-the-badge
-[issues-url]: https://github.com/alexisguillotin/photography/issues
-[license-shield]: https://img.shields.io/github/license/alexisguillotin/photography.svg?style=for-the-badge
-[license-url]: https://github.com/alexisguillotin/photography/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/alexisguillotin/photography-website.svg?style=for-the-badge
+[contributors-url]: https://github.com/alexisguillotin/photography-website/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/alexisguillotin/photography-website.svg?style=for-the-badge
+[forks-url]: https://github.com/alexisguillotin/photography-website/network/members
+[stars-shield]: https://img.shields.io/github/stars/alexisguillotin/photography-website.svg?style=for-the-badge
+[stars-url]: https://github.com/alexisguillotin/photography-website/stargazers
+[issues-shield]: https://img.shields.io/github/issues/alexisguillotin/photography-website.svg?style=for-the-badge
+[issues-url]: https://github.com/alexisguillotin/photography-website/issues
+[license-shield]: https://img.shields.io/github/license/alexisguillotin/photography-website.svg?style=for-the-badge
+[license-url]: https://github.com/alexisguillotin/photography-website/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alexis-guillotin-50a8b8188
 [product-screenshot]: images/screenshot.png
